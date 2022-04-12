@@ -2,5 +2,13 @@ test git
 123
 git log 123
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 4441414141git
 ádas
+=======
+4441414141git
+>>>>>>> Stashed changes
+=======
+4441414141git
+>>>>>>> Stashed changes
