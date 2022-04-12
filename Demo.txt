@@ -3,5 +3,4 @@ test git
 git log 123
 
 4441414141git
-
-git status
+ádas
